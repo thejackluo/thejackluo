@@ -7,8 +7,8 @@ If you want to talk to me about anything regarding life, starting organization o
 Social Media:
 - Instagram: https://www.instagram.com/thejackluo
 - Github: https://www.github.com/thejackluo
-- Email: jackluo@srnd.org
-- Website: https://www.luojack.com
+- Email: jack@hexahacks.com
+- Website: https://www.jack-luo.com
 
 Past projects:
 - Personal Website V2
