@@ -6,7 +6,7 @@ Currently I am developing **Vigama** and **Elizabeth.ai**, two ambitous projects
 If you have any project ideas or love AI, reaching out to me below
 [Say hi!](https://calendly.com/jackluo)
 
-##Numbers!
+## Numbers
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejackluo&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark)](https://github.com/theivanyeung/thejackluo)
 
 [![My Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thejackluo&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark&hide=scss,css&count_private=true&langs_count=4&layout=default)](https://github.com/thejackluo/thejackluo)
