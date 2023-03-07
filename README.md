@@ -10,7 +10,7 @@ If you have any project ideas or love AI, reaching out to me below!
 ## Numbers
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejackluo&count_private=true&show_icons=true&include_all_commits=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark)](https://github.com/thejackluo/thejackluo)
 
-[![My Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thejackluo&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&exclude_repo=polythm,polythm-script,habitica&icon_color=f5dcc4&theme=dark&hide=scss,css&count_private=true&langs_count=4&layout=default)](https://github.com/thejackluo/thejackluo)
+[![My Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thejackluo&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&exclude_repo=polythm,polythm-script&icon_color=f5dcc4&theme=dark&hide=scss,css&count_private=true&langs_count=4&layout=default)](https://github.com/thejackluo/thejackluo)
 
 
 ### Social Media:
