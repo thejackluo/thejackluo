@@ -14,8 +14,15 @@ If you have any project ideas or love AI, reaching out to me below!
 - Website: https://www.jack-luo.com
 
 ---
+### Projects I am working on:
+- Ophelus
+- Vigama
+- Calend.ai
+- Greenway Website
 
+---
 ### Past projects:
+- LinguaScan
 - Journey (personal website)
 - MindfulAI (microaggression ml model)
 - StockBot (sentimental analysis for stocks)
@@ -24,10 +31,7 @@ If you have any project ideas or love AI, reaching out to me below!
 - Gradder.io (education lms)
 
 ---
-### Projects I am working on:
-- Vigama
-- Elizabeth.ai
-
 ### Projects with indirect support
 - GD LLR Demon List (supported the creation of the website)
+
 
