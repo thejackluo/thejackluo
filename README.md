@@ -16,24 +16,23 @@ If you have any project ideas or love AI, reaching out to me below!
 ---
 ### Projects I am working on:
 - Ophelus (Hybrid Modern Web App)
-- Vigama (AI SaSS)
+- Vigama (AI SaSS): https://vigama.tech
 - Calend.ai Chrome Extension
 - Greenway Film (NPO Website)
 
 ---
 ### Past projects:
 - LinguaScan (computer vision language learning)
-- Journey (personal website)
+- Journey (personal website): https://jack-luo.com
 - MindfulAI (microaggression ml model)
-- StockBot (sentimental analysis for stocks)
-- Covid Simulator (simulate covid related pandemic)
-- HexaHacks (official website)
-- Gradder.io (education lms)
+- StockBot (sentimental analysis for stocks): https://github.com/thejackluo/stock-bot
+- HexaHacks (official website): https://hexahacks.com
+- Gradder.io (education lms): https://gradder.io
 
 ---
 ### Projects with indirect support
-- GD LLR Demon List (supported the creation of the website)
-- TitanAcacia Website (website full dev)
-- Prodicity (live streaming platform)
+- GD LLR Demon List (direct founding of the website): https://gdlrrlist.com/
+- TitanAcacia Website (website full dev): https://titanacacia.com
+- Prodicity (AI mentorship platform): https://prodicity.org
 
 
