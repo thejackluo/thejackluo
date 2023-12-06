@@ -1,8 +1,11 @@
 ## Hey There!👋
-I am Jack, an ai / full stack developer in the Bay Area, California. Exploring emerging breakthrough technologies has always interested me. I am currently tinkering with large language models and neural networks and exploring neuromorphic computing concepts. As a hobby, I created side projects in hackathons (with a few awards).
+I'm Jack — a passionate AI and full-stack developer from the Bay Area, constantly exploring the frontiers of technology. My journey in Computer Science fuels my curiosity, especially in the realms of neural networks and natural language processing.
 
-Currently, I am developing **Ophelus** and **Calend.ai**, two ambitious projects revolving around personal assistants and schedule automations!
-If you have any project ideas or want to discuss emergent technologies, reach out to me below!
+I'm focused on revolutionizing productivity through Vigama, an AI-driven web application designed to automate and streamline workflows. Simultaneously, I'm delving into the intricacies of generative agents, which promises to redefine our understanding of AI architecture.
+
+When I'm not coding or ideating, I'm an avid electric unicyclist, a Japanese language enthusiast, and a voracious reader. My ultimate goal? To find fulfillment in innovation and empower others to do the same.
+
+I'm always open to discussing new project ideas. So, if you're as excited about the future as I am, let's connect and explore what we can build together!
 
 [Say hi!](https://calendly.com/jackluo)
 
