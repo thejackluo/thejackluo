@@ -1,5 +1,4 @@
-# Hey There!👋
-
+## Hey There!👋
 I am Jack, an ai / full stack developer in the Bay Area, California. Exploring emerging breakthrough technologies has always interested me. I am currently tinkering with large language models and neural networks and exploring neuromorphic computing concepts. As a hobby, I created side projects in hackathons (with a few awards).
 
 Currently, I am developing **Ophelus** and **Calend.ai**, two ambitious projects revolving around personal assistants and schedule automations!
@@ -14,6 +13,11 @@ If you have any project ideas or want to discuss emergent technologies, reach ou
 - Website: https://www.jack-luo.com
 
 ---
+## Technical
+### Github Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thejackluo)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thejackluo&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### Skills ✌️:
 - Technical: JavaScript, Python, C++, C, Java, Node.js, HTML, CSS, Android, R
 - Areas: Deep Learning, Natural Language Processing, Web Applications, Mobile Development, UI / UX,
