@@ -20,7 +20,7 @@ I'm always open to discussing new project ideas. So, if you're as excited about 
 ### Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=thejackluo&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### Skills ✌️:
+### Skills:
 - Technical: JavaScript, Python, C++, C, Java, Node.js, HTML, CSS, Android, R
 - Areas: Deep Learning, Natural Language Processing, Web Applications, Mobile Development, UI / UX,
 - Tools: Git, LaTeX, TensorFlow, Figma, AutoCAD, Cura, Microsoft Office
