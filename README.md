@@ -25,10 +25,10 @@ If you have any project ideas or want to discuss emergent technologies, reach ou
 ---
 ## ALL PROJECTS
 ### Current projects:
-- Ophelus (Hybrid Modern Web App)
-- [Vigama](https://vigama.tech) (AI SaSS Company)
-- Calend.ai Chrome Extension
-- Greenway Film (NPO Website)
+- Ophelus (WIP)
+- Calend.ai Chrome Extension (WIP)
+- Greenway Film (NPO Website) (WIP)
+- [Vigama](https://vigama.tech) (AI SaSS Company) 
 
 ### Past projects:
 - [LinguaScan]() (computer vision language learning)
