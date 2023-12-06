@@ -1,38 +1,45 @@
 # Hey There!👋
 
-My name is Jack, an ai / full stack developer in the Bay Area, California. Exploring emerging breakthrough technologies has always interested me. Right now, I am tinkering with large language models, neural networks, and exploring neuromorphic computing concepts. I created side projects in hackathons (with a few awards) as a hobby.
+I am Jack, an ai / full stack developer in the Bay Area, California. Exploring emerging breakthrough technologies has always interested me. I am currently tinkering with large language models and neural networks and exploring neuromorphic computing concepts. As a hobby, I created side projects in hackathons (with a few awards).
 
-Currently I am developing **Vigama** and **Ophelus**, two ambitous projects revolving around personal assistants and improvement!
-If you have any project ideas or love AI, reaching out to me below!
+Currently, I am developing **Ophelus** and **Calend.ai**, two ambitious projects revolving around personal assistants and schedule automations!
+If you have any project ideas or want to discuss emergent technologies, reach out to me below!
 
 [Say hi!](https://calendly.com/jackluo)
 
-### Social Media:
+### Social Media ✌️:
 - Instagram: https://www.instagram.com/thejackluo
 - Github: https://www.github.com/thejackluo
 - Email: support@jack-luo.com
 - Website: https://www.jack-luo.com
 
 ---
-### Projects I am working on:
+### Skills ✌️:
+- Technical: JavaScript, Python, C++, C, Java, Node.js, HTML, CSS, Android, R
+- Areas: Deep Learning, Natural Language Processing, Web Applications, Mobile Development, UI / UX,
+- Tools: Git, LaTeX, TensorFlow, Figma, AutoCAD, Cura, Microsoft Office
+
+---
+## ALL PROJECTS
+### Current projects:
 - Ophelus (Hybrid Modern Web App)
-- Vigama (AI SaSS): https://vigama.tech
+- [Vigama](https://vigama.tech) (AI SaSS Company)
 - Calend.ai Chrome Extension
 - Greenway Film (NPO Website)
 
----
 ### Past projects:
-- LinguaScan (computer vision language learning)
-- Journey (personal website): https://jack-luo.com
-- MindfulAI (microaggression ml model)
-- StockBot (sentimental analysis for stocks): https://github.com/thejackluo/stock-bot
-- HexaHacks (official website): https://hexahacks.com
-- Gradder.io (education lms): https://gradder.io
+- [LinguaScan]() (computer vision language learning)
+- [Journey](https://jack-luo.com) (personal website)
+- [MindfulAI](https://github.com/thejackluo/mindfulai) (microaggression ml model)
+- [StockBot](https://github.com/thejackluo/stockbot) (sentimental analysis for stocks)
+- [HexaHacks](https://hexahacks.com) (official website)
 
----
-### Projects with indirect support
-- GD LLR Demon List (direct founding of the website): https://gdlrrlist.com/
-- TitanAcacia Website (website full dev): https://titanacacia.com
-- Prodicity (AI mentorship platform): https://prodicity.org
+### Deprecated Projects
+- [Gradder.io](https://gradder.io) (education learning management software)
+- [TitanAcacia](https://titanacacia.com) (full stack website)
+
+### Project Contributors
+- [GD LLR Demon List](https://gdlrrlist.com/) (direct founding of the website)
+- [Prodicity](https://prodicity.org) (AI mentorship platform): 
 
 
