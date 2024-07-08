@@ -21,30 +21,32 @@ I'm always open to discussing new project ideas. So, if you're as excited about 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thejackluo&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Skills:
-- Technical: JavaScript, Python, C++, C, Java, Node.js, HTML, CSS, Android, R
-- Areas: Deep Learning, Natural Language Processing, Web Applications, Mobile Development, UI / UX,
-- Tools: Git, LaTeX, TensorFlow, Figma, AutoCAD, Cura, Microsoft Office
+- Technical: Python, Javascript, C++, Next.js, React, Node.js, Android, R, SQL
+- Areas: Deep Learning, Natural Language Processing, Machine Learning, App Development, Web Applications
+- Tools: Git, LaTeX, Figma, AutoCAD, Cura, TensorFlow, OpenCV, matplotlib
 
 ---
 ## ALL PROJECTS
 ### Current projects:
+- [StockM2](https://github.com/thejackluo/stock-model-v2)
 - Ophelus (WIP)
 - Calend.ai Chrome Extension (WIP)
-- Greenway Film (NPO Website) (WIP)
 - [Vigama](https://vigama.tech) (AI SaSS Company) 
 
 ### Past projects:
-- [LinguaScan]() (computer vision language learning)
-- [Journey](https://jack-luo.com) (personal website)
+- [Vify.ai](https://github.com/thejackluo/calhacks-ai-24) (scam detection)
+- [LinguaScan](https://github.com/thejackluo/lingua-scan) (computer vision language learning)
+- [Jack](https://jack-luo.com) (personal website)
 - [MindfulAI](https://github.com/thejackluo/mindfulai) (microaggression ml model)
 - [StockBot](https://github.com/thejackluo/stockbot) (sentimental analysis for stocks)
 - [HexaHacks](https://hexahacks.com) (official website)
+- [Gradder.io](https://gradder.io) (education learning management software)
 
 ### Deprecated Projects
-- [Gradder.io](https://gradder.io) (education learning management software)
 - [TitanAcacia](https://titanacacia.com) (full stack website)
 
 ### Project Contributors
+- Greenway Film (NPO Website) (WIP)
 - [GD LLR Demon List](https://gdlrrlist.com/) (direct founding of the website)
 - [Prodicity](https://prodicity.org) (AI mentorship platform): 
 
