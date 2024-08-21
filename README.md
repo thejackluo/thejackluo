@@ -28,7 +28,7 @@ I'm always open to discussing new project ideas. So, if you're as excited about 
 ---
 ## ALL PROJECTS
 ### Current projects:
-- [StockM2](https://github.com/thejackluo/stock-model-v2)
+- [StockM2](https://github.com/thejackluo/stock-model-v2), [StockBot](https://github.com/thejackluo/stockbot) (sentimental analysis for stocks)
 - Ophelus (WIP)
 - Calend.ai Chrome Extension (WIP)
 - [Vigama](https://vigama.tech) (AI SaSS Company) 
@@ -38,7 +38,6 @@ I'm always open to discussing new project ideas. So, if you're as excited about 
 - [LinguaScan](https://github.com/thejackluo/lingua-scan) (computer vision language learning)
 - [Jack](https://jack-luo.com) (personal website)
 - [MindfulAI](https://github.com/thejackluo/mindfulai) (microaggression ml model)
-- [StockBot](https://github.com/thejackluo/stockbot) (sentimental analysis for stocks)
 - [HexaHacks](https://hexahacks.com) (official website)
 - [Gradder.io](https://gradder.io) (education learning management software)
 
