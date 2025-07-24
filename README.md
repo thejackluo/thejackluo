@@ -1,15 +1,13 @@
 ## Hey There!👋
-I'm Jack — a passionate AI and full-stack engineer from the Bay Area, constantly exploring the frontiers of technology. My journey in Computer Science fuels my curiosity, especially in the realms of natural language processing and automation.
+I’m **Jack Luo**, AI‑centric full‑stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight.
 
-I'm focused on revolutionizing productivity through [Mira](https://github.com/thejackluo/mira), an AI-driven productivity suite designed to automate and streamline workflows in teams and personal projects. Simultaneously, I am looking into new financial strategies and creative ways to trade in [StockM2](https://github.com/thejackluo/stock-model-v2).
+My research interests include ultra‑low‑latency model serving, voice‑native agents, distributed multi‑agent systems, and the infrastructure that binds modern AI tooling to legacy software.
 
-Learning wise, I like to delve into human nature and philosophy. I've dabbled in generative agents, marl (multi agent reinforcement learning), extended reality concepts.
+When I'm not coding, I'm an electric unicyclist with 2500+ miles (sf to ny), poker player seeking positive elixir trades.
 
-When I'm not coding or ideating, I'm an avid electric unicyclist, a Japanese language enthusiast, and a poker player. I hope to innovate and empower others to do the same.
+I'm always open to discussing new project ideas. So, if you're building the future, let's chat
 
-I'm always open to discussing new project ideas. So, if you're as excited about the future as I am, let's connect and explore what we can build together!
-
-[Say hi!](https://calendly.com/jackluo)
+[Book a time here!](https://calendly.com/jackluo)
 
 ### Social Media ✌️:
 - [Github](https://www.github.com/thejackluo)
@@ -21,18 +19,25 @@ I'm always open to discussing new project ideas. So, if you're as excited about 
 ### Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=thejackluo&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### Skills:
-- Full-stack: JavaScript, TypeScript, HTML/CSS, Next.js, React.js, Node.js, Express.js, PostgreSQL, MongoDB, AWS, SQL, Java
-- AI&ML: Python, R, LangChain, Pinecone, Hugging Face, TensorFlow, PyTorch, OpenCV, C++, scikit-learn, Pandas, NumPy
-- Tools: Git, Unix, GitHub, ClickUp, Miro, Notion, Jest, LaTeX, Figma, Jupyter Notebooks, R Studios, Linux
-
+### Skills
+| Domain | Stack |
+|--------|-------|
+| **Full‑stack** | TypeScript, JavaScript, HTML / CSS, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, WebSockets |
+| **AI & ML** | Python, R, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, Hugging Face, Language Graph |
+| **Cloud & DevOps** | AWS (Bedrock, Lambda, VPC, CI interfaces), Docker, GitHub Actions |
+| **Tooling** | Git, Unix, Jest, Tailwind CSS, shadcn/ui, Figma, Jupyter Lab, LaTeX |
 ---
 ## ALL PROJECTS
-### Current projects:
-- [StockM2](https://github.com/thejackluo/stock-model-v2), [StockBot](https://github.com/thejackluo/stockbot) (sentimental analysis for stocks)
-- [Mira](https://github.com/thejackluo/mira) Suite: [Ophelus](https://github.com/thejackluo/ophelus), [Filtra](https://github.com/theivanyeung/Filtra),  [Vigama](https://vigama.tech) (productivity and gamification), Calend.ai Chrome Extension (WIP)
+### Current Projects
+- [MAGK](https://github.com/magk-app) – multi‑agent workflow builder with real‑time orchestration and reflection targeting sub‑100 ms inference latency in production.
+- [Sunday](https://github.com/magk-app/sunday) - Tinder like Email Assistant that processes your emails for you
+- [MIT Ark](https://github.com/SGIARK/ARK2.0) – open‑source agent powered by long short memory, MCP
+- [Humon](https://humon.org) – contributed to pre‑training research on domain‑specific language models.
+- [Eliza](https://github.com/thejackluo/eliza) - Meeting note taker
+- [Mira](https://github.com/thejackluo/mira) Suite: [Ophelus](https://github.com/thejackluo/ophelus), [Filtra](https://github.com/theivanyeung/Filtra),  [Vigama](https://vigama.tech) (productivity and gamification), Calend.ai Chrome Extension
 
 ### Past projects:
+- [StockM2](https://github.com/thejackluo/stock-model-v2), [StockBot](https://github.com/thejackluo/stockbot) (sentimental analysis for stocks)
 - [Vify.ai](https://github.com/thejackluo/calhacks-ai-24) (scam detection)
 - [LinguaScan](https://github.com/thejackluo/lingua-scan) (computer vision language learning)
 - [MindfulAI](https://github.com/thejackluo/mindfulai) (microaggression ml model)
@@ -41,7 +46,7 @@ I'm always open to discussing new project ideas. So, if you're as excited about 
 
 ### Project Contributors
 - [Prodicity](https://prodicity.org) (AI mentorship platform): 
-- [QuantumLabs](https://quantumlabs.academy) (AI Project Summer Camp)
+- [QuantumLabs](https://quantumlabs.academy) (AI Project Summer Camp) exited
 - [GD LLR Demon List](https://gdlrrlist.com/) (direct founding of the website)
 
 ### Deprecated Projects
