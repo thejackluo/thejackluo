@@ -1,9 +1,9 @@
 ## Hey There!👋
 I’m **Jack Luo**, AI‑centric full‑stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight.
 
-My research interests include ultra‑low‑latency model serving, voice‑native agents, distributed multi‑agent systems, and the infrastructure that binds modern AI tooling to legacy software.
+My research interests include agentic memory architecture, voice‑native agents, distributed multi‑agent systems, and the infrastructure that binds modern AI tooling to legacy software.
 
-When I'm not coding, I'm an electric unicyclist with 2500+ miles (sf to ny), poker player seeking positive elixir trades.
+When I'm not coding, I'm an electric unicyclist with 2500+ miles (sf to ny), poker player, and learning Japanese for fun!
 
 I'm always open to discussing new project ideas. So, if you're building the future, let's chat
 
@@ -13,6 +13,7 @@ I'm always open to discussing new project ideas. So, if you're building the futu
 - [Github](https://www.github.com/thejackluo)
 - [Linkedin](https://www.linkedin.com/in/thejackluo)
 - [Website](https://www.jack-luo.com)
+- [Twitter](https://x.com/thejackluo)
 
 ---
 ## Technical
@@ -23,7 +24,7 @@ I'm always open to discussing new project ideas. So, if you're building the futu
 | Domain | Stack |
 |--------|-------|
 | **Full‑stack** | TypeScript, JavaScript, HTML / CSS, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, WebSockets |
-| **AI & ML** | Python, R, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, Hugging Face, Language Graph |
+| **AI & ML** | Python, R, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, Hugging Face, LangGraph, LangChain |
 | **Cloud & DevOps** | AWS (Bedrock, Lambda, VPC, CI interfaces), Docker, GitHub Actions |
 | **Tooling** | Git, Unix, Jest, Tailwind CSS, shadcn/ui, Figma, Jupyter Lab, LaTeX |
 ---
