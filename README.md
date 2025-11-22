@@ -1,9 +1,11 @@
 ## Hey There!👋
-I’m **Jack Luo**, AI‑centric full‑stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight.
+I’m **Jack Luo**, an AI full stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight.
 
-My research interests include agentic memory architecture, voice‑native agents, distributed multi‑agent systems, and the infrastructure that binds modern AI tooling to legacy software.
+I am interested in software that changes how we work and live.
 
-When I'm not coding, I'm an electric unicyclist with 2500+ miles (sf to ny), poker player, and learning Japanese for fun!
+My research interests include agentic memory architecture, voice‑native agents, and the infrastructure that binds modern AI tooling to legacy software.
+
+When I'm not coding, I'm an electric unicyclist with 2500+ miles (same distance from sf to ny), traveler around the US and the world, and meeting new people 
 
 I'm always open to discussing new project ideas. So, if you're building the future, let's chat
 
