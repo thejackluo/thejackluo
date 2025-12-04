@@ -7,9 +7,7 @@ My research interests include agentic memory architecture, voice‑native agents
 
 When I'm not coding, I'm an electric unicyclist with 2500+ miles (same distance from sf to ny), traveler around the US and the world, and meeting new people 
 
-I'm always open to discussing new project ideas. So, if you're building the future, let's chat
-
-[Book a time here!](https://calendly.com/jackluo)
+I'm always open to discussing new project ideas. So, if you're building the future, feel free to [book a time here!](https://calendly.com/jackluo)
 
 ### Social Media ✌️:
 - [Github](https://www.github.com/thejackluo)
