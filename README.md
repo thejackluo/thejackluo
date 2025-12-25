@@ -31,7 +31,7 @@ I'm always open to discussing new project ideas. So, if you're building the futu
 ## ALL PROJECTS
 ### Current Projects
 - Weave: Coming soon
-- [Delight](https://github.com/magk-app/delight) - emotional intelligence productivity companion
+- [Delight](https://github.com/magk-app/delight) - emotional intelligence productivity companion: https://magk.app
 - [MAGK](https://github.com/magk-app) – multi‑agent workflow builder with real‑time orchestration and reflection targeting sub‑100 ms inference latency in production.
 - [Sunday](https://github.com/magk-app/sunday) - Tinder like Email Assistant that processes your emails for you
 - [MIT Ark](https://github.com/SGIARK/ARK2.0) – open‑source agent powered by long short memory, MCP
