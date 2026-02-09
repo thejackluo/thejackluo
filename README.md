@@ -29,6 +29,8 @@ I'm always open to discussing new project ideas. So, if you're building the futu
 | **Tooling** | Git, Unix, Jest, Tailwind CSS, shadcn/ui, Figma, Jupyter Lab, LaTeX |
 ---
 ## ALL PROJECTS
+- Agent School: a school for ai agents to learn better and work cheaper
+
 ### Current Projects
 - [Weave](https://weaive.app/): AI productivity coaching app to push your limits (on app store soon)
 - [Delight](https://github.com/magk-app/delight) - emotional intelligence productivity companion: https://magk.app
