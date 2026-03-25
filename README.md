@@ -32,6 +32,7 @@ I'm always open to discussing new project ideas. So, if you're building the futu
 - Agent School: a school for ai agents to learn better and work cheaper
 
 ### Current Projects
+- AgentDex: AI first personal CRM to be more personable in modern days
 - [Weave](https://weaive.app/): AI productivity coaching app to push your limits (on app store soon)
 - [Delight](https://github.com/magk-app/delight) - emotional intelligence productivity companion: https://magk.app
 - [MAGK](https://github.com/magk-app) – multi‑agent workflow builder with real‑time orchestration and reflection targeting sub‑100 ms inference latency in production.
