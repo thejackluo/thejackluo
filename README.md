@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jackluo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thejackluo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <h1 align="center">Hey There! 👋</h1>
@@ -44,15 +44,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackluo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thejackluo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackluo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&curr=58a6ff&sideNums=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejackluo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&curr=58a6ff&sideNums=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackluo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejackluo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
 </p>
 
 ---
@@ -72,20 +72,20 @@
 
 | Project | Description |
 |---------|-------------|
-| **[Agent School](https://github.com/jackluo/agent-school)** | A school for AI agents to learn better and work cheaper |
-| **[AgentDex](https://github.com/jackluo/agentdex)** | AI-first personal CRM to be more personable in modern days |
-| **[Weave](https://github.com/jackluo/weave)** | AI productivity coaching app to push your limits *(App Store soon)* |
+| **[Agent School](https://github.com/thejackluo/agent-school)** | A school for AI agents to learn better and work cheaper |
+| **[AgentDex](https://github.com/thejackluo/agentdex)** | AI-first personal CRM to be more personable in modern days |
+| **[Weave](https://github.com/thejackluo/weave)** | AI productivity coaching app to push your limits *(App Store soon)* |
 | **[MAGK](https://magk.app)** | Multi‑agent workflow builder with real‑time orchestration, targeting sub‑100 ms inference latency |
 | **[Delight](https://magk.app)** | Emotional intelligence productivity companion |
-| **[Sunday](https://github.com/jackluo/sunday)** | Tinder-like email assistant that processes your emails for you |
-| **[MIT Ark](https://github.com/jackluo/mit-ark)** | Open-source agent powered by long short memory, MCP |
-| **[Humon](https://github.com/jackluo/humon)** | Pre‑training research on domain‑specific language models |
-| **[Eliza](https://github.com/jackluo/eliza)** | Meeting note taker |
-| **[Mira Suite](https://github.com/jackluo/mira)** | Ophelus, Filtra, Vigama (productivity & gamification), Calend.ai Chrome Extension |
-| **[StockM2](https://github.com/jackluo/stockm2)** | Sentiment analysis for stocks |
-| **[Vify.ai](https://github.com/jackluo/vify)** | Scam detection |
-| **[LinguaScan](https://github.com/jackluo/linguascan)** | Computer vision language learning |
-| **[MindfulAI](https://github.com/jackluo/mindfulai)** | Microaggression ML model |
+| **[Sunday](https://github.com/thejackluo/sunday)** | Tinder-like email assistant that processes your emails for you |
+| **[MIT Ark](https://github.com/thejackluo/mit-ark)** | Open-source agent powered by long short memory, MCP |
+| **[Humon](https://github.com/thejackluo/humon)** | Pre‑training research on domain‑specific language models |
+| **[Eliza](https://github.com/thejackluo/eliza)** | Meeting note taker |
+| **[Mira Suite](https://github.com/thejackluo/mira)** | Ophelus, Filtra, Vigama (productivity & gamification), Calend.ai Chrome Extension |
+| **[StockM2](https://github.com/thejackluo/stockm2)** | Sentiment analysis for stocks |
+| **[Vify.ai](https://github.com/thejackluo/vify)** | Scam detection |
+| **[LinguaScan](https://github.com/thejackluo/linguascan)** | Computer vision language learning |
+| **[MindfulAI](https://github.com/thejackluo/mindfulai)** | Microaggression ML model |
 
 ---
 
