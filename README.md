@@ -1,59 +1,104 @@
-## Hey There!👋
-I’m **Jack Luo**, an AI full stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jackluo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-I am interested in software that changes how we work and live.
+<h1 align="center">Hey There! 👋</h1>
 
-My research interests include agentic memory architecture, voice‑native agents, and the infrastructure that binds modern AI tooling to legacy software.
+<p align="center">
+  I'm <strong>Jack Luo</strong>, an AI full stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight.
+</p>
 
-When I'm not coding, I'm an electric unicyclist with 2500+ miles (same distance from sf to ny), traveler around the US and the world, and meeting new people 
-
-I'm always open to discussing new project ideas. So, if you're building the future, feel free to [book a time here!](https://calendly.com/jackluo)
-
-### Social Media ✌️:
-- [Github](https://www.github.com/thejackluo)
-- [Linkedin](https://www.linkedin.com/in/thejackluo)
-- [Website](https://www.jack-luo.com)
-- [Twitter](https://x.com/thejackluo)
+<p align="center">
+  I'm interested in software that changes how we work and live.
+</p>
 
 ---
-## Technical
-### Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=thejackluo&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### Skills
+### 🔬 Research Interests
+
+- Agentic memory architecture
+- Voice-native agents  
+- Infrastructure binding modern AI tooling to legacy software
+
+---
+
+### 🛤️ Outside of Code
+
+- 🛴 Electric unicyclist — **2,500+ miles** (SF to NY distance!)
+- ✈️ Traveler around the US and the world
+- 🤝 Meeting new people
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/thejackluo"><img src="https://img.shields.io/badge/GitHub-jackluo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/thejackluo"><img src="https://img.shields.io/badge/LinkedIn-jackluo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/thejackluo"><img src="https://img.shields.io/badge/Twitter-@jackluo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://jack-luo.com"><img src="https://img.shields.io/badge/Website-jackluo.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jackluo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackluo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&curr=58a6ff&sideNums=c9d1d9" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackluo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
+</p>
+
+---
+
+### 💻 Tech Stack
+
 | Domain | Stack |
 |--------|-------|
-| **Full‑stack** | TypeScript, JavaScript, HTML / CSS, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, WebSockets |
-| **AI & ML** | Python, R, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, Hugging Face, LangGraph, LangChain |
-| **Cloud & DevOps** | AWS (Bedrock, Lambda, VPC, CI interfaces), Docker, GitHub Actions |
-| **Tooling** | Git, Unix, Jest, Tailwind CSS, shadcn/ui, Figma, Jupyter Lab, LaTeX |
+| **Full‑stack** | TypeScript, JavaScript, HTML/CSS, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, WebSockets |
+| **AI & ML** | Python, R, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, Hugging Face, LangGraph, LangChain |
+| **Cloud & DevOps** | AWS (Bedrock, Lambda, VPC, CI), Docker, GitHub Actions |
+| **Tooling** | Git, Unix, Jest, Tailwind CSS, shadcn/ui, Figma, Jupyter Lab, LaTeX |
+
 ---
-## ALL PROJECTS
-- Agent School: a school for ai agents to learn better and work cheaper
 
-### Current Projects
-- [AgentDex](https://github.com/agent-school/agentdex/): AI first personal CRM to be more personable in modern days
-- [Weave](https://weaive.app/): AI productivity coaching app to push your limits (on app store soon)
-- [Delight](https://github.com/magk-app/delight) - emotional intelligence productivity companion: https://magk.app
-- [MAGK](https://github.com/magk-app) – multi‑agent workflow builder with real‑time orchestration and reflection targeting sub‑100 ms inference latency in production.
-- [Sunday](https://github.com/magk-app/sunday) - Tinder like Email Assistant that processes your emails for you
-- [MIT Ark](https://github.com/SGIARK/ARK2.0) – open‑source agent powered by long short memory, MCP
-- [Humon](https://humon.org) – contributed to pre‑training research on domain‑specific language models.
-- [Eliza](https://github.com/thejackluo/eliza) - Meeting note taker
-- [Mira](https://github.com/thejackluo/mira) Suite: [Ophelus](https://github.com/thejackluo/ophelus), [Filtra](https://github.com/theivanyeung/Filtra),  [Vigama](https://vigama.tech) (productivity and gamification), Calend.ai Chrome Extension
+### 🚀 Projects
 
-### Past projects:
-- [StockM2](https://github.com/thejackluo/stock-model-v2), [StockBot](https://github.com/thejackluo/stockbot) (sentimental analysis for stocks)
-- [Vify.ai](https://github.com/thejackluo/calhacks-ai-24) (scam detection)
-- [LinguaScan](https://github.com/thejackluo/lingua-scan) (computer vision language learning)
-- [MindfulAI](https://github.com/thejackluo/mindfulai) (microaggression ml model)
-- [Jack](https://jack-luo.com) (personal website)
-- [HexaHacks](https://hexahacks.com) (official website)
+| Project | Description |
+|---------|-------------|
+| **[Agent School](https://github.com/jackluo/agent-school)** | A school for AI agents to learn better and work cheaper |
+| **[AgentDex](https://github.com/jackluo/agentdex)** | AI-first personal CRM to be more personable in modern days |
+| **[Weave](https://github.com/jackluo/weave)** | AI productivity coaching app to push your limits *(App Store soon)* |
+| **[MAGK](https://magk.app)** | Multi‑agent workflow builder with real‑time orchestration, targeting sub‑100 ms inference latency |
+| **[Delight](https://magk.app)** | Emotional intelligence productivity companion |
+| **[Sunday](https://github.com/jackluo/sunday)** | Tinder-like email assistant that processes your emails for you |
+| **[MIT Ark](https://github.com/jackluo/mit-ark)** | Open-source agent powered by long short memory, MCP |
+| **[Humon](https://github.com/jackluo/humon)** | Pre‑training research on domain‑specific language models |
+| **[Eliza](https://github.com/jackluo/eliza)** | Meeting note taker |
+| **[Mira Suite](https://github.com/jackluo/mira)** | Ophelus, Filtra, Vigama (productivity & gamification), Calend.ai Chrome Extension |
+| **[StockM2](https://github.com/jackluo/stockm2)** | Sentiment analysis for stocks |
+| **[Vify.ai](https://github.com/jackluo/vify)** | Scam detection |
+| **[LinguaScan](https://github.com/jackluo/linguascan)** | Computer vision language learning |
+| **[MindfulAI](https://github.com/jackluo/mindfulai)** | Microaggression ML model |
 
-### Project Contributors
-- [Prodicity](https://prodicity.org) (AI mentorship platform): 
-- [QuantumLabs](https://quantumlabs.academy) (AI Project Summer Camp) exited
-- [GD LLR Demon List](https://gdlrrlist.com/) (direct founding of the website)
+---
 
-### Deprecated Projects
-- [TitanAcacia](https://titanacacia.com) (full stack website)
+### 🤝 Open Source Contributions
+
+| Project | Role |
+|---------|------|
+| **[Prodicity](https://github.com/prodicity)** | AI mentorship platform |
+| **[QuantumLabs](https://github.com/quantumlabs)** | AI Project Summer Camp *(exited)* |
+| **[GD LLR Demon List](https://github.com/gdllr)** | Direct founding of the website |
+
+---
+
+<p align="center">
+  <i>"Building the future, one agent at a time."</i>
+</p>
