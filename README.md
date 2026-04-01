@@ -33,10 +33,10 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/thejackluo"><img src="https://img.shields.io/badge/GitHub-jackluo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/thejackluo"><img src="https://img.shields.io/badge/LinkedIn-jackluo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/thejackluo"><img src="https://img.shields.io/badge/Twitter-@jackluo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://jack-luo.com"><img src="https://img.shields.io/badge/Website-jackluo.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/thejackluo"><img src="https://img.shields.io/badge/GitHub-thejackluo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/thejackluo"><img src="https://img.shields.io/badge/LinkedIn-thejackluo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/thejackluo"><img src="https://img.shields.io/badge/Twitter-@thejackluo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://jack-luo.com"><img src="https://img.shields.io/badge/Website-jack-luo.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
