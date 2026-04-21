@@ -72,20 +72,19 @@
 
 | Project | Description |
 |---------|-------------|
-| **[Agent School](https://github.com/thejackluo/agent-school)** | A school for AI agents to learn better and work cheaper |
-| **[AgentDex](https://github.com/thejackluo/agentdex)** | AI-first personal CRM to be more personable in modern days |
-| **[Weave](https://github.com/thejackluo/weave)** | AI productivity coaching app to push your limits *(App Store soon)* |
-| **[MAGK](https://magk.app)** | Multi‑agent workflow builder with real‑time orchestration, targeting sub‑100 ms inference latency |
-| **[Delight](https://magk.app)** | Emotional intelligence productivity companion |
+| **[Agent School](https://github.com/thejackluo/agent-school)** | Working on tools to help improve human-agent interactions through Agent Slack, semi-autonomous co-generation workflows, and reducing hallucination in tool use |
+| **[Rolo](https://github.com/agent-school/agentdex)** | The fastest AI relationship intelligence system to manage ever-growing social obligations |
+| **[Weave](https://github.com/thejackluo/weavelight)** | AI-powered productivity app that tracks your habits and creates a narrative to motivate you to not quit using Duolingo like streaks |
+| **[Delight](https://magk.app)** | A story-based productivity companion that makes your life like an RPG using AI |
+| **[MAGK Excel](https://magk.app)** | Multi‑agent workflow builder with real‑time orchestration  for financial PDF and Excel workflows |
 | **[Sunday](https://github.com/thejackluo/sunday)** | Tinder-like email assistant that processes your emails for you |
-| **[MIT Ark](https://github.com/thejackluo/mit-ark)** | Open-source agent powered by long short memory, MCP |
-| **[Humon](https://github.com/thejackluo/humon)** | Pre‑training research on domain‑specific language models |
-| **[Eliza](https://github.com/thejackluo/eliza)** | Meeting note taker |
+| **[MIT Ark](https://github.com/thejackluo/mit-ark)** | Open-source agent with tool use, memory, MCP modules, anything that makes an agent operate more effectively |
+| **[Eliza](https://github.com/thejackluo/eliza)** | A small meeting note taker that records any meeting and saves them |
 | **[Mira Suite](https://github.com/thejackluo/mira)** | Ophelus, Filtra, Vigama (productivity & gamification), Calend.ai Chrome Extension |
-| **[StockM2](https://github.com/thejackluo/stockm2)** | Sentiment analysis for stocks |
-| **[Vify.ai](https://github.com/thejackluo/vify)** | Scam detection |
-| **[LinguaScan](https://github.com/thejackluo/linguascan)** | Computer vision language learning |
-| **[MindfulAI](https://github.com/thejackluo/mindfulai)** | Microaggression ML model |
+| **[StockM2](https://github.com/thejackluo/stockm2)** | Utilizing a few quantamental strategies to do sentimental analysis for stocks with backtesting |
+| **[Vify.ai](https://github.com/thejackluo/vify)** | scam detection based on messages |
+| **[LinguaScan](https://github.com/thejackluo/linguascan)** | A way to learn a language immersively through taking pictures of a foreign country |
+| **[MindfulAI](https://github.com/thejackluo/mindfulai)** | Observe your text and see if you are perpetuating racial stereotypes or microaggressions |
 
 ---
 
