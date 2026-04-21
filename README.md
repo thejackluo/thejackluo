@@ -25,8 +25,8 @@
 ### 🛤️ Outside of Code
 
 - 🛴 Electric unicyclist — **2,500+ miles** (SF to NY distance!)
-- ✈️ Traveler around the US and the world
-- 🤝 Meeting new people
+- ✈️ Traveler around the US and the world (on average about a flight in a week)
+- 🤝 Meeting new people (feel free to reach out!)
 
 ---
 
@@ -61,9 +61,10 @@
 
 | Domain | Stack |
 |--------|-------|
+| **(NEW) Agentic Engineering** | Claude Code, Opencode, Paperclip Orchestration, Cost Optimization for LLMs, Memory Management, Spec Driven Engineering |
 | **Full‑stack** | TypeScript, JavaScript, HTML/CSS, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, WebSockets |
-| **AI & ML** | Python, R, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, Hugging Face, LangGraph, LangChain |
-| **Cloud & DevOps** | AWS (Bedrock, Lambda, VPC, CI), Docker, GitHub Actions |
+| **ML** | Python, R, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, Hugging Face, LangGraph, LangChain |
+| **Cloud & DevOps** | AWS (Bedrock, Lambda, LightSail, S3, EC2), Coolify, Docker, GitHub Actions (Pre-Post Commit HOoks) |
 | **Tooling** | Git, Unix, Jest, Tailwind CSS, shadcn/ui, Figma, Jupyter Lab, LaTeX |
 
 ---
@@ -93,11 +94,11 @@
 | Project | Role |
 |---------|------|
 | **[Prodicity](https://github.com/prodicity)** | AI mentorship platform |
-| **[QuantumLabs](https://github.com/quantumlabs)** | AI Project Summer Camp *(exited)* |
-| **[GD LLR Demon List](https://github.com/gdllr)** | Direct founding of the website |
+| **[QuantumLabs](https://github.com/quantumlabs)** | Created an AI project summer camp that focuses on hands-on AI projects for high schoolers |
+| **[GD LLR Demon List](https://github.com/gdllr)** | A list of geometry low refresh rate demon level rankings maintained by contributors, 10k+ of views, contributed to the direct founding of the website |
 
 ---
 
 <p align="center">
-  <i>"Building the future, one agent at a time."</i>
+  <i>"Building the future, one line of code at a time."</i>
 </p>
