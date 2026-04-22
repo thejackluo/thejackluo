@@ -77,9 +77,9 @@
 | **[Rolo](https://github.com/agent-school/agentdex)** | The fastest AI relationship intelligence system to manage ever-growing social obligations |
 | **[Weave](https://github.com/thejackluo/weavelight)** | AI-powered productivity app that tracks your habits and creates a narrative to motivate you to not quit using Duolingo like streaks |
 | **[Delight](https://magk.app)** | A story-based productivity companion that makes your life like an RPG using AI |
-| **[MAGK Excel](https://magk.app)** | Multi‑agent workflow builder with real‑time orchestration  for financial PDF and Excel workflows |
+| **[MAGK Excel](https://github.com/magk-app/magk-excel)** | Multi‑agent workflow builder with real‑time orchestration  for financial PDF and Excel workflows |
 | **[Sunday](https://github.com/thejackluo/sunday)** | Tinder-like email assistant that processes your emails for you |
-| **[MIT Ark](https://github.com/thejackluo/mit-ark)** | Open-source agent with tool use, memory, MCP modules, anything that makes an agent operate more effectively |
+| **[MIT Ark](https://github.com/SGIARK/arkos)** | Open-source agent with tool use, memory, MCP modules, anything that makes an agent operate more effectively |
 | **[Eliza](https://github.com/thejackluo/eliza)** | A small meeting note taker that records any meeting and saves them |
 | **[Mira Suite](https://github.com/thejackluo/mira)** | Ophelus, Filtra, Vigama (productivity & gamification), Calend.ai Chrome Extension |
 | **[StockM2](https://github.com/thejackluo/stockm2)** | Utilizing a few quantamental strategies to do sentimental analysis for stocks with backtesting |
