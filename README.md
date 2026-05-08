@@ -5,7 +5,7 @@
 <h1 align="center">Hey There! 👋</h1>
 
 <p align="center">
-  I'm <strong>Jack Luo</strong>, an AI full stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight.
+  I'm <strong>Jack Luo</strong>, an AI full stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight. Also I have just launched Rolo! go check it out
 </p>
 
 <p align="center">
