@@ -74,7 +74,7 @@
 | Project | Description |
 |---------|-------------|
 | **[Agent School](https://github.com/thejackluo/agent-school)** | Working on tools to help improve human-agent interactions through Agent Slack, semi-autonomous co-generation workflows, and reducing hallucination in tool use |
-| **[Rolo](https://github.com/agent-school/agentdex)** | The fastest AI relationship intelligence system to manage ever-growing social obligations |
+| **[Rolo](https://rolo.agentschool.io)** | The fastest AI relationship intelligence system to manage ever-growing social obligations |
 | **[Weave](https://github.com/thejackluo/weavelight)** | AI-powered productivity app that tracks your habits and creates a narrative to motivate you to not quit using Duolingo like streaks |
 | **[Delight](https://magk.app)** | A story-based productivity companion that makes your life like an RPG using AI |
 | **[MAGK Excel](https://github.com/magk-app/magk-excel)** | Multi‑agent workflow builder with real‑time orchestration  for financial PDF and Excel workflows |
