@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  <i>"Building the future, one line of code at a time."</i>
+  <i>"Building the future, one commit at a time."</i>
 </p>
