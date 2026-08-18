@@ -24,7 +24,7 @@
 
 ### 🛤️ Outside of Code
 
-- 🛴 Electric unicyclist — **2,500+ miles** (SF to NY distance!)
+- 🛴 Electric unicyclist — **2,500+ miles** (SF to NY distance)
 - ✈️ Traveler around the US and the world (on average about a flight in a week)
 - 🤝 Meeting new people (feel free to reach out!)
 
