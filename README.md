@@ -49,6 +49,17 @@ Juno is an experiment in making computer-use agents faster by translating websit
 | **[Sunday](https://github.com/thejackluo/sunday)** | Tinder-like email assistant that processes your emails for you |
 ---
 
+### 🤝 Open Source Contributions
+
+| Project | Role |
+|---------|------|
+| **[ArkOS](https://github.com/SGIARK/arkos)** | Open-source agent harness with native tool calling, browser control, human approvals, sandboxed execution, memory, and integrations across Gmail, GitHub, Notion, Calendar, and more. |
+| **[Prodicity](https://github.com/prodicity)** | AI mentorship platform |
+| **[QuantumLabs](https://github.com/quantumlabs)** | Created an AI project summer camp that focuses on hands-on AI projects for high schoolers |
+| **[GD LLR Demon List](https://github.com/gdllr)** | A list of geometry low refresh rate demon level rankings maintained by contributors, 10k+ of views, contributed to the direct founding of the website |
+
+---
+
 ### 🔬 Things I'm Curious About
 
 - Long-term memory and retrieval for AI agents
@@ -104,15 +115,5 @@ Juno is an experiment in making computer-use agents faster by translating websit
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejackluo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
 </p>
 
-### 🤝 Open Source Contributions
-
-| Project | Role |
-|---------|------|
-| **[ArkOS](https://github.com/SGIARK/arkos)** | Open-source agent harness with native tool calling, browser control, human approvals, sandboxed execution, memory, and integrations across Gmail, GitHub, Notion, Calendar, and more. |
-| **[Prodicity](https://github.com/prodicity)** | AI mentorship platform |
-| **[QuantumLabs](https://github.com/quantumlabs)** | Created an AI project summer camp that focuses on hands-on AI projects for high schoolers |
-| **[GD LLR Demon List](https://github.com/gdllr)** | A list of geometry low refresh rate demon level rankings maintained by contributors, 10k+ of views, contributed to the direct founding of the website |
-
----
 
  
