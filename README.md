@@ -16,7 +16,9 @@
 <p align="center">
   I'm currently building <strong>Agent School</strong>, the umbrella behind <strong>Rolo</strong> and <strong>Juno</strong>.
 </p>
+
 ---
+
 ### 🚀 What I'm Building
 
 #### Rolo
@@ -44,7 +46,7 @@ Juno is an experiment in making computer-use agents faster by translating websit
 | **[Weave](https://github.com/thejackluo/weaive)** | Full-stack mobile productivity app that turns goals into daily actions and tracks progress through voice, photos, journals, and immutable event history. |
 | **[Jackputer](https://github.com/thejackluo/jackputer)** | Nand2Tetris computer build with an HDL-to-structural-Verilog compiler and interactive circuit visualizations down to primitive NAND gates. |
 | **[Mira](https://github.com/thejackluo/mira)** | Experimental conversational AI exploring long-term memory, tone modeling, context management, and personalized interaction. |
-
+| **[Sunday](https://github.com/thejackluo/sunday)** | Tinder-like email assistant that processes your emails for you |
 ---
 
 ### 🔬 Things I'm Curious About
