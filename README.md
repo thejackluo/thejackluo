@@ -2,31 +2,78 @@
   <img src="https://komarev.com/ghpvc/?username=thejackluo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<h1 align="center">Hey There! 👋</h1>
+<h1 align="center">Hey, I'm Jack 👋</h1>
 
 <p align="center">
-  I'm <strong>Jack Luo</strong>, an AI full stack engineer based in the Bay Area, building agentic systems that plan, communicate, and execute work with minimal human oversight. Also I have just launched Rolo! go check it out
+  Full-stack product engineer focused on AI systems.
 </p>
 
 <p align="center">
-  I'm interested in software that changes how we work and live.
+  I like taking messy real-world problems and turning them into software people actually use.
+  Most of my work sits somewhere between product engineering, AI infrastructure, and human-computer interaction.
 </p>
+
+<p align="center">
+  I'm currently building <strong>Agent School</strong>, the umbrella behind <strong>Rolo</strong> and <strong>Juno</strong>.
+</p>
+---
+### 🚀 What I'm Building
+
+#### Rolo
+AI-native personal CRM for remembering people, conversations, and relationships.
+
+- Used by ~50 people
+- ~10,000 contacts imported
+- Entity resolution across LinkedIn, email, names, and phone data
+- Hybrid retrieval, relationship graphs, voice capture, and AI-assisted workflows
+
+[Rolo →](https://rolo.agentschool.io)
+
+#### Juno
+A semantic action compiler for AI agents.
+
+Juno is an experiment in making computer-use agents faster by translating websites into structured, reusable actions instead of repeatedly reasoning over raw interfaces.
 
 ---
 
-### 🔬 Research Interests
+### 🧪 Selected Projects
 
-- Agentic memory architecture
-- Voice-native agents  
-- Infrastructure binding modern AI tooling to legacy software
+| Project | What it is |
+|---|---|
+| **[MAGK Excel](https://github.com/magk-app/magk-excel)** | AI workflow engine for financial PDF and Excel tasks, with connected workflow steps and runtime-discovered MCP tools. |
+| **[Weave](https://github.com/thejackluo/weaive)** | Full-stack mobile productivity app that turns goals into daily actions and tracks progress through voice, photos, journals, and immutable event history. |
+| **[Jackputer](https://github.com/thejackluo/jackputer)** | Nand2Tetris computer build with an HDL-to-structural-Verilog compiler and interactive circuit visualizations down to primitive NAND gates. |
+| **[Mira](https://github.com/thejackluo/mira)** | Experimental conversational AI exploring long-term memory, tone modeling, context management, and personalized interaction. |
+
+---
+
+### 🔬 Things I'm Curious About
+
+- Long-term memory and retrieval for AI agents
+- Voice-native agents and interfaces
+- Computer-use agents and reliability
+- How AI systems can interact with existing software without rebuilding everything from scratch
+
+---
+
+### 💻 Tech I Use
+
+| Area | Stack |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript, C++, Java, SQL |
+| **Full-stack** | React, Next.js, React Native, Electron, FastAPI, Express |
+| **Data & AI** | PostgreSQL, Qdrant, Redis, AWS Bedrock, LangGraph, MCP |
+| **Infrastructure** | AWS, Docker, Linux, GitHub Actions |
+| **AI Development** | Claude Code, agent workflows, structured outputs, retrieval systems, tool use |
 
 ---
 
 ### 🛤️ Outside of Code
 
-- 🛴 Electric unicyclist — **2,500+ miles** (SF to NY distance)
-- ✈️ Traveler around the US and the world (on average about a flight in a week)
-- 🤝 Meeting new people (feel free to reach out!)
+- 🛴 Electric unicyclist — **2,500+ miles**
+- ✈️ Usually on a plane about once a week
+- 🏠 Run hacker houses where builders live, work, and ship together
+- 🤝 I genuinely enjoy meeting strangers, hearing what they're working on, and connecting people
 
 ---
 
@@ -36,7 +83,7 @@
   <a href="https://github.com/thejackluo"><img src="https://img.shields.io/badge/GitHub-thejackluo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/thejackluo"><img src="https://img.shields.io/badge/LinkedIn-thejackluo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/thejackluo"><img src="https://img.shields.io/badge/Twitter-@thejackluo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://jack-luo.com"><img src="https://img.shields.io/badge/Website-jackluo.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://jack-luo.com"><img src="https://img.shields.io/badge/Website-jack--luo.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
@@ -55,51 +102,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejackluo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
 </p>
 
----
-
-### 💻 Tech Stack
-
-| Domain | Stack |
-|--------|-------|
-| **(NEW) Agentic Engineering** | Claude Code, Opencode, Paperclip Orchestration, Cost Optimization for LLMs, Memory Management, Spec Driven Engineering |
-| **Full‑stack** | TypeScript, JavaScript, HTML/CSS, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, WebSockets |
-| **ML** | Python, R, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, Hugging Face, LangGraph, LangChain |
-| **Cloud & DevOps** | AWS (Bedrock, Lambda, LightSail, S3, EC2), Coolify, Docker, GitHub Actions (Pre-Post Commit HOoks) |
-| **Tooling** | Git, Unix, Jest, Tailwind CSS, shadcn/ui, Figma, Jupyter Lab, LaTeX |
-
----
-
-### 🚀 Projects
-
-| Project | Description |
-|---------|-------------|
-| **[Agent School](https://github.com/thejackluo/agent-school)** | Working on tools to help improve human-agent interactions through Agent Slack, semi-autonomous co-generation workflows, and reducing hallucination in tool use |
-| **[Rolo](https://rolo.agentschool.io)** | The fastest AI relationship intelligence system to manage ever-growing social obligations (launched recently)
-| **[Weave](https://github.com/thejackluo/weavelight)** | AI-powered productivity app that tracks your habits and creates a narrative to motivate you to not quit using Duolingo like streaks |
-| **[Delight](https://magk.app)** | A story-based productivity companion that makes your life like an RPG using AI |
-| **[MAGK Excel](https://github.com/magk-app/magk-excel)** | Multi‑agent workflow builder with real‑time orchestration  for financial PDF and Excel workflows |
-| **[Sunday](https://github.com/thejackluo/sunday)** | Tinder-like email assistant that processes your emails for you |
-| **[MIT Ark](https://github.com/SGIARK/arkos)** | Open-source agent with tool use, memory, MCP modules, anything that makes an agent operate more effectively |
-| **[Eliza](https://github.com/thejackluo/eliza)** | A small meeting note taker that records any meeting and saves them |
-| **[Mira Suite](https://github.com/thejackluo/mira)** | Ophelus, Filtra, Vigama (productivity & gamification), Calend.ai Chrome Extension |
-| **[StockM2](https://github.com/thejackluo/stockm2)** | Utilizing a few quantamental strategies to do sentimental analysis for stocks with backtesting |
-| **[Vify.ai](https://github.com/thejackluo/vify)** | scam detection based on messages |
-| **[LinguaScan](https://github.com/thejackluo/linguascan)** | A way to learn a language immersively through taking pictures of a foreign country |
-| **[MindfulAI](https://github.com/thejackluo/mindfulai)** | Observe your text and see if you are perpetuating racial stereotypes or microaggressions |
-
----
-
 ### 🤝 Open Source Contributions
 
 | Project | Role |
 |---------|------|
+| **[ArkOS](https://github.com/SGIARK/arkos)** | Open-source agent harness with native tool calling, browser control, human approvals, sandboxed execution, memory, and integrations across Gmail, GitHub, Notion, Calendar, and more. |
 | **[Prodicity](https://github.com/prodicity)** | AI mentorship platform |
 | **[QuantumLabs](https://github.com/quantumlabs)** | Created an AI project summer camp that focuses on hands-on AI projects for high schoolers |
 | **[GD LLR Demon List](https://github.com/gdllr)** | A list of geometry low refresh rate demon level rankings maintained by contributors, 10k+ of views, contributed to the direct founding of the website |
 
 ---
 
-<p align="center">
-  <i>"Building the future, one commit at a time."</i>
-</p>
  
